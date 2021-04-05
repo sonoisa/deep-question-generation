@@ -3,5 +3,5 @@
 
 ## 実行方法
 
-1. [Google ColabでNotebookを開く](https://colab.research.google.com/github/sonoisa/deep-question-generation/blob/main/T5_ja_question_generation.ipynb)
+1. [Google ColabでNotebookを開く](https://colab.research.google.com/github/sonoisa/deep-question-generation/blob/main/t5_japanese_question_generation.ipynb)
 2. 全てのセルを実行する。
